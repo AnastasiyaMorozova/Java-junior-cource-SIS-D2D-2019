@@ -5,5 +5,6 @@ public class Main {
     {
         // Simple Hello World Testing Application
 	    System.out.println("Hello World!");
+        System.out.println("Nice too meet you!");
     }
 }
